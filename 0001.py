@@ -1,4 +1,6 @@
-# n = input()
+# 2018/05/23
+
+n = input()
 
 a = [ int(x) for x in input().split(',')]
 
