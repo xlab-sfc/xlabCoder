@@ -35,7 +35,7 @@ while True:
     iter += 1
 
     def search_around(x, y):
-        global bFinish;
+        global bFinish
         print('search : {} {}'.format(x, y))
         for i in range(-1, 2):
             for j in range(-1, 2):
